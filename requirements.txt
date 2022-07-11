@@ -1,1 +1,2 @@
 html2text==2020.1.16
+epub2txt

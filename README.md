@@ -15,6 +15,11 @@ git clone 'https://github.com/1204244136/index-X'
 python main.py # 还没想好些什么就先这样写吧  
 ```
 
+### 文件说明
+
+将在index-X目录下生成`index.txt`文件，此文件为原始文本。  
+fenci.py会删除换行，并对文本进行分词。  
+
 ### 语料库格式
 
 TODO  
