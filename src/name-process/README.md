@@ -23,7 +23,7 @@
 
 ### Step1 原始文本处理
 
-```
+```bash
 python name.py
 ```
 
